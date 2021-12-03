@@ -12,15 +12,15 @@ It contains stream-chat-react based inbuilt components.
 	Better Comments
 
     
-### Packages:
+# Packages:
 
-Frontend
+### Frontend
 	stream-chat 
 	stream-chat-react 
     universal-cookie
 	axios
 
-Backend
+### Backend
 	bcrypt 
 	crypto (to create random cryprographic string)
 	dotenv (for environment variables)
