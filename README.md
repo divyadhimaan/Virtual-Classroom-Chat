@@ -1,11 +1,15 @@
-### Stream (https://getstream.io/)
-
+# Virtual Classroom App
 This is a Full Realtime Chat Application.
 It allows you to built scalable and custom chat applications extremely easily.
 We will use React for the front end, and NodeJS on the backend.
 It contains stream-chat-react based inbuilt components.
 
+### Stream (https://getstream.io/)
 
+
+
+Setup: 
+	run npm i && npm start for both client and server side to start the development server
 
 ### VS code Extensions
     ES7 React/Redux/GraphQL/React-Native snippets
