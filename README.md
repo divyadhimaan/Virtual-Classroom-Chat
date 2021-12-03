@@ -16,7 +16,7 @@ Setup:
 	Better Comments
 
     
-# Packages:
+<!-- # Packages:
 
 ### Frontend
 	stream-chat 
@@ -34,4 +34,4 @@ Setup:
 	nodemon 
 	twilio (for sending live sms messages)
 	Cors (for cross origin request)
-
+ -->
