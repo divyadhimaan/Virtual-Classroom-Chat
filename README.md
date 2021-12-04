@@ -4,7 +4,9 @@ It allows you to built scalable and custom chat applications extremely easily.
 We will use React for the front end, and NodeJS on the backend.
 It contains stream-chat-react based inbuilt components.
 
-### Stream (https://getstream.io/)
+### The Deployed Site is : https://virtual-classroom-project.netlify.app/
+
+Stream (https://getstream.io/)
 
 
 

@@ -31,12 +31,11 @@ app.post('/', (req, res) => {
                 if(!user.online) {
                     twilioClient.messages.create({ 
                         body: `You have a new message from ${message.user.fullName} - ${message.text}`,
-                        messagingServiceSid:messagingServiceSid,
+                        messagingServiceSid: messagingServiceSid,
                         to: user.phoneNumber 
                     })
                         .then(() => console.log('Message sent!'))
                         .catch((err) => console.log(err));
-
                 }
             })
         res.status(200).send('Message sent!');
