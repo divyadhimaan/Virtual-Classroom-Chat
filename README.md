@@ -1,4 +1,4 @@
-# Virtual Classroom App
+# Virtual Classroom Chat App
 This is a Full Realtime Chat Application.
 It allows you to built scalable and custom chat applications extremely easily.
 We will use React for the front end, and NodeJS on the backend.
