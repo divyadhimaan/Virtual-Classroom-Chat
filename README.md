@@ -1,8 +1,13 @@
-# Virtual Classroom App
+# Virtual Classroom Chat App
 This is a Full Realtime Chat Application.
 It allows you to built scalable and custom chat applications extremely easily.
 We will use React for the front end, and NodeJS on the backend.
 It contains stream-chat-react based inbuilt components.
+
+It contains Direct Messages and Group Chat/Channels.
+Chat feature includes:
+Reaction to messages, Reply to messages in threads, Send Giphs, Upload video + picture, Embedded youtube video and upload documents.
+
 
 ### The Deployed Site is : https://virtual-classroom-project.netlify.app/
 
@@ -37,3 +42,7 @@ Setup:
 	twilio (for sending live sms messages)
 	Cors (for cross origin request)
  -->
+
+<!-- test case
+ username - sample1
+ pw - test123 -->
