@@ -8,11 +8,6 @@ It contains Direct Messages and Group Chat/Channels.
 Chat feature includes:
 Reaction to messages, Reply to messages in threads, Send Giphs, Upload video + picture, Embedded youtube video and upload documents.
 
-![This is an image](/../../../../github/docs/blob/master/client/public/chat-project.jpg)
-
-![chat-project](https://user-images.githubusercontent.com/63899908/147072953-eab3515b-f95d-4cc2-b02c-7fe005b365e7.jpg)
-
-
 ### The Deployed Site is : https://virtual-classroom-project.netlify.app/
 
 Stream (https://getstream.io/)
